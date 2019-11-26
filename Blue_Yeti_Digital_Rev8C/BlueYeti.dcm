@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CM6400
+D USB Single-Chip Headset Audio Solution
+F https://github.com/HDR/Blue-Yeti-Replacement-Boards/Blue_Yeti_Digital_Rev8C/CM6400.pdf
+$ENDCMP
+#
+#End Doc Library
